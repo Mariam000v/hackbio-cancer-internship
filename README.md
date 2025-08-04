@@ -1,5 +1,5 @@
 HackBio Internship 2024
-Biomarker Discovery – Clinical Oncology Track
+Clinical Oncology – Biomarker Discovery Track
 
 This project was conducted as part of the HackBio 2024 internship under the Biomarker Discovery track, focusing on clinical oncology. We explored RNA-Seq data to identify potential biomarkers associated with cancer progression and diagnosis.
 
